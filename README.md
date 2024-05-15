@@ -4,7 +4,7 @@
 </div>
 
 
-![Banner](/imag/banner.jpeg)
+![Banner](./imag/banner.jpeg)
 
 ## <p style="font-family: 'Times New Roman', Times, serif; font-size: 40px; margin-left: 5px;">Tecnologias 💻
 <div align="left">
