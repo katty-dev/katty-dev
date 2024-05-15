@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-    <img src="https://i.giphy.com/lonWFYfXEhH9dGnyX0.webp" width="150"/>
-    <p style="font-family: 'Times New Roman', Times, serif; font-size: 50px; margin-left: 10px;">Bienvenid@ a mi mundo</p>
-</div>
+# <img src="https://i.giphy.com/lonWFYfXEhH9dGnyX0.webp" width="100"/> Bienvenid@ a mi mundo
 
 
 ![Banner](./imag/banner.jpeg)
